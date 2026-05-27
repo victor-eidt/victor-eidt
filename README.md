@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/victor-eidt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Shipping+products+end-to-end;TypeScript+%E2%80%A2+React+%E2%80%A2+Node+%E2%80%A2+Java;Turning+ideas+into+code+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Shipping+products+end-to-end;TypeScript+%E2%80%A2+React+%E2%80%A2+Node+%E2%80%A2+Java;Turning+ideas+into+code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -57,13 +57,13 @@ const victor = {
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/248745/victor-eidt" alt="Victor's contribution chart" width="95%" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victor-eidt/victor-eidt/output/github-snake-tokyonight.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victor-eidt/victor-eidt/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/victor-eidt/victor-eidt/output/github-snake-tokyonight.svg" />
+</picture>
 
 ---
 
@@ -71,7 +71,6 @@ const victor = {
 
 - Currently building full-stack web products with **React + Node + PostgreSQL**
 - Going deeper on **system design**, **clean architecture** and **DX**
-
 
 <p align="center">
   <i>"First make it work, then make it right, then make it fast." — Kent Beck</i>
