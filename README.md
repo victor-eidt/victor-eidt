@@ -4,12 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=victor-eidt&label=Profile%20views&color=8B5CF6&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/victor-eidt?label=Followers&style=flat-square&color=8B5CF6" alt="followers" />
-  <img src="https://img.shields.io/github/stars/victor-eidt?label=Stars&style=flat-square&color=8B5CF6" alt="stars" />
-</p>
-
 ---
 
 ### 🧠 About me
