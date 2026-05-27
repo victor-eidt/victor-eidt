@@ -61,11 +61,7 @@ const victor = {
 
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/8B5CF6/victor-eidt" alt="Victor's contribution chart" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-eidt&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph&v=2" alt="activity graph" width="95%" />
+  <img src="https://ghchart.rshah.org/248745/victor-eidt" alt="Victor's contribution chart" width="95%" />
 </p>
 
 
@@ -76,20 +72,6 @@ const victor = {
 - Currently building full-stack web products with **React + Node + PostgreSQL**
 - Going deeper on **system design**, **clean architecture** and **DX**
 
----
-
-### 📌 Featured projects
-
-<p align="center">
-  <a href="https://github.com/victor-eidt/synapse-forge-back-end">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=victor-eidt&repo=synapse-forge-back-end&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
-  </a>
-  <a href="https://github.com/izabelly-code/synapse-forge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=izabelly-code&repo=synapse-forge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <i>"First make it work, then make it right, then make it fast." — Kent Beck</i>
