@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About me
+### About me
 
 ```ts
 const victor = {
@@ -27,7 +27,7 @@ const victor = {
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -57,7 +57,7 @@ const victor = {
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <a href="https://github.com/victor-eidt">
@@ -76,12 +76,10 @@ const victor = {
 
 ---
 
-### 🚀 What I'm up to
+### What I'm up to
 
-- 🔭 Currently building full-stack web products with **React + Node + PostgreSQL**
-- 🌱 Going deeper on **system design**, **clean architecture** and **DX**
-- 🤝 Open to collaborating on side projects, open source and product ideas
-- ⚡ Off-screen I'm a CS student trying to keep the keyboard a little warmer than the coffee
+- Currently building full-stack web products with **React + Node + PostgreSQL**
+- Going deeper on **system design**, **clean architecture** and **DX**
 
 ---
 
