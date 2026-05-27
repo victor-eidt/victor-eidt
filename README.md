@@ -59,20 +59,11 @@ const victor = {
 
 ### GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/victor-eidt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-eidt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&cache_seconds=1800&v=2" alt="Victor's GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-eidt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8&cache_seconds=1800&v=2" alt="Top languages" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=victor-eidt&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&v=2" alt="streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=victor-eidt&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&v=2" alt="trophies" />
-</p>
 
 ---
 
