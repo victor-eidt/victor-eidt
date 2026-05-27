@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Victor Eidt 👋</h1>
-
 <p align="center">
   <a href="https://github.com/victor-eidt">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Shipping+products+end-to-end;TypeScript+%E2%80%A2+React+%E2%80%A2+Node+%E2%80%A2+Java;Turning+ideas+into+code+%F0%9F%9A%80" alt="Typing SVG" />
