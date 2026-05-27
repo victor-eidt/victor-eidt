@@ -61,7 +61,11 @@ const victor = {
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=victor-eidt&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&v=2" alt="streak stats" />
+  <img src="https://ghchart.rshah.org/8B5CF6/victor-eidt" alt="Victor's contribution chart" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-eidt&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph&v=2" alt="activity graph" width="95%" />
 </p>
 
 
