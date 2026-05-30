@@ -73,7 +73,7 @@ const victor = {
 - Going deeper on **system design**, **clean architecture** and **DX**
 
 <p align="center">
-  <i>"First make it work, then make it right, then make it fast." — Kent Beck</i>
+  <i>"First make it work, then make it right, then make it fast." - Kent Beck</i>
 </p>
 
 <p align="center">
